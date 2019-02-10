@@ -1,0 +1,15 @@
+  body .container{
+  background: green;
+  color: white;
+  }
+
+  h1 {
+      text-align :center;
+  }
+  h2 {
+    color :yellow;
+  }
+
+  hr {
+     background: white;
+    }
